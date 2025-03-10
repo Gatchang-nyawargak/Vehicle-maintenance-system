@@ -51,5 +51,4 @@ jsonCopyPOST /tasks/
   "description": "Change oil in bus #BUS123",
   "status": "pending"
 }
-Copy
-You can simply copy and paste this entire block into the GitHub README editor, and it will render correctly with all the formatting.RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses.
+
